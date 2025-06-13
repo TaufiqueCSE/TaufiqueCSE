@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Md Taufique</h1>
-<h3 align="center">A passionate Full-Stack Developer & Core Java Enthusiast</h3>
+<h3 align="center">Software Engineer at Posible | Full-Stack MERN Developer | Core Java & Python Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Full-Stack+Node.js+Developer;Strong+in+Core+Java;Open+Source+Contributor;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Software+Engineer+at+Posible+since+Jan+2025;MERN+Stack+Expert;Core+Java+%26+Python+Topper+(NPTEL);Building+Full+ERP+POS+System;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💼 About Me
-- 🔭 I’m currently working on: **Retail POS Software (Billing System)**
-- 🌱 I’m currently learning: `Next.js`, `Mongoose`, `Clean MVC architecture`
-- 🛠️ Tech Stack:  
-  `Node.js`, `Express.js`, `MongoDB`, `Mongoose`,  
-  `JavaScript`, `HTML`, `CSS`, `Core Java`,  
-  `Next.js`, `React`, `Tailwind`,  
-  `Git`, `GitHub`, `REST APIs`
-- 💬 Ask me about: `Authentication`, `System Design`, `Java Logic`, `Offline Data Caching`
-- 📫 Reach me at: **[your_email@example.com]**
+
+- 🧑‍💻 Working at **Posible** as a **Software Engineer** since **January 2025**
+- 🔧 Building a full-featured **POS + ERP Application** using `Electron`, `React`, `Vite`, `Node.js`, `MongoDB`
+  - Modules: `Sales`, `Inventory`, `Loyalty`, `Offers`, `Membership`, `Customer`, `Setup`, and more — all under my full control
+- 🧠 MERN Stack Expert: `MongoDB`, `Express.js`, `React`, `Node.js`
+- 🏅 **Top 5%** in **NPTEL (Govt. of India)** with a **Silver Medal** in both `Core Java` and `Python`
+- 🌱 Currently exploring advanced system architecture & offline-first solutions
+- 💬 Ask me about: `Full-stack Dev`, `Authentication`, `Offline Caching`, `System Design`, `Java Logic`
+- 📫 Reach me at: **[taufiquefuturetech@gmail.com]**
 
 ---
 
@@ -28,9 +28,9 @@
 
 ---
 
-### 🧰 Tools I Use
+### 🧰 Tools & Technologies I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,java,git,github,react,nextjs,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,nextjs,java,python,git,github,vscode,electron" />
 </p>
 
 ---
